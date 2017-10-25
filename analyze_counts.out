@@ -1,0 +1,19 @@
+2017-10-25_14:30:17 INFO: Loading data 
+2017-10-25_14:30:17 INFO: Calculating scores 
+2017-10-25_14:30:17 INFO: Reformatting matrix for gene-wise scores 
+2017-10-25_14:30:18 INFO: Calculationg all possible data consolidations 
+2017-10-25_14:30:18 INFO: Loading and translating HI3 
+2017-10-25_14:30:19 INFO: Loading PRS 
+2017-10-25_14:30:19 INFO: Loading HI-II-14 
+2017-10-25_14:30:19 INFO: Adapting Gold Standards to Search Space 
+2017-10-25_14:30:24 INFO: Evaluating consolidation options against gold standards 
+2017-10-25_14:30:25 INFO: Exporting matrices 
+2017-10-25_14:30:25 INFO: Drawing MCC plots 
+34.3 
+2017-10-25_14:30:25 INFO: Drawing IPS barplot 
+2017-10-25_14:30:25 INFO: Drawing IPS heatmap 
+2017-10-25_14:30:25 INFO: Exporting data to Cytoscape format 
+[1] "bfgy2h_2017-10-25_09-04-47/cytoscape.xgmml"
+2017-10-25_14:30:26 INFO: Generating report on read-pair fates 
+2017-10-25_14:30:26 INFO: Generating report page 
+2017-10-25_14:30:26 INFO: Done! 
